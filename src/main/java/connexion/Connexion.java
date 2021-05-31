@@ -16,6 +16,7 @@ public Connection conn;
 
 
 {
+	// Test
 String url = "jdbc:mysql://localhost:3306/";
 String dbName;
 dbName = "banque"; // nom de la base
